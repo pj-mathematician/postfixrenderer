@@ -3,3 +3,5 @@ This is project created with Kotlin and JavaFX to test rendering mathematical ex
 
 # Forks
 Output LaTeX code
+
+not completed yet
