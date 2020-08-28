@@ -1,10 +1,5 @@
 # Postfix Renderer
-This is project created with Kotlin and JavaFX to test rendering mathematical expressions using my [Postfix](https://github.com/kieferlam/postfix) module.
+This is project created with Kotlin and JavaFX to test rendering mathematical expressions using the [Postfix](https://github.com/kieferlam/postfix) module.
 
-# Screenshots
-
-### Input: 1+2
-![Rendered Version Of Input](https://raw.githubusercontent.com/kieferlam/postfixrenderer/master/rsc/readme/1%2B2.PNG)
-
-### Input: 5*3/2
-![Rendered Version Of Input](https://raw.githubusercontent.com/kieferlam/postfixrenderer/master/rsc/readme/5m3d2.PNG)
+# Forks
+Output LaTeX code
